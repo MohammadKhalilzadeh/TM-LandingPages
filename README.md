@@ -21,3 +21,4 @@
  - Vue-Router
  - Vue-Countery-Flag
  - Vue-i18n
+ - Vue-jwt-decode
