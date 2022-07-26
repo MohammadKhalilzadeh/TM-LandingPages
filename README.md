@@ -14,3 +14,10 @@
  - JavaScript
  - HTML5
  - CSS3
+
+**Dependencies**
+
+ - Axios
+ - Vue-Router
+ - Vue-Countery-Flag
+ - Vue-i18n
