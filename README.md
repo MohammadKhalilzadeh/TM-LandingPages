@@ -2,10 +2,12 @@
 
 **Pages**
 
+ - Home Page
  - Login Page
- - Products
- - TM Shop
- - Contact us
+ - Products Page
+ - TM Shop Page
+ - Contact us Page
+ - Footer
 
 **Technologies used:**
 
